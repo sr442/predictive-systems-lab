@@ -22,7 +22,25 @@ languageCode = "en-us"
   weight = 20
 
   [[menu.main]]
+  identifier = "projects"
+  name = "Projects"
+  url = "/projects/"
+  weight = 30
+
+  [[menu.main]]
+  identifier = "consulting"
+  name = "Consulting"
+  url = "/consulting/"
+  weight = 40
+
+  [[menu.main]]
   identifier = "about"
   name = "About"
   url = "/about/"
-  weight = 30
+  weight = 50
+
+  [[menu.main]]
+  identifier = "contact"
+  name = "Contact"
+  url = "/contact/"
+  weight = 60
