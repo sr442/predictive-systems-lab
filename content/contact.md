@@ -15,7 +15,6 @@ For all inquiries, please reach out via email:
 
 ## Connect
 
-- **GitHub**: [@sr442](https://github.com/sr442)
 - **LinkedIn**: [Shubhankar Rana](https://linkedin.com)
 
 *We typically respond to technical and business inquiries within 48 hours.*
