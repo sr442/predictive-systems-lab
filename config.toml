@@ -1,0 +1,28 @@
+baseURL = "https://predictivesystemslab.com"
+title = "Predictive Systems Lab"
+theme = "PaperMod"
+languageCode = "en-us"
+
+[params]
+  author = "Shubhankar Rana"
+  description = "Research and AI systems for forecasting and decision intelligence."
+  defaultTheme = "dark"
+  
+[menu]
+  [[menu.main]]
+  identifier = "research"
+  name = "Research"
+  url = "/research/"
+  weight = 10
+
+  [[menu.main]]
+  identifier = "posts"
+  name = "Publications"
+  url = "/posts/"
+  weight = 20
+
+  [[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 30
