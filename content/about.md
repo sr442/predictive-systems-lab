@@ -11,12 +11,11 @@ Predictive Systems Lab is a specialized research institute dedicated to the adva
 
 We bridge the gap between theoretical statistical learning and applied macroeconomic and industrial forecasting. Our work focuses on developing models that are not just accurate, but calibrated, interpretable, and computationally scalable for high-stakes environments.
 
-## Research Leadership
+## Researcher
 
 **Shubhankar Rana**  
-*Principal Researcher & Director*
 
-With extensive experience in deployed machine learning, AI-driven portfolio architecture, and distributed systems, Shubhankar leads the lab's initiatives in hybrid forecasting paradigms—combining state-space models with modern deep learning architectures to solve complex sequential prediction problems.
+Shubhankar focuses on hybrid forecasting paradigms, combining statistical models with modern machine learning architectures to solve sequential prediction problems.
 
 ## Core Capabilities
 

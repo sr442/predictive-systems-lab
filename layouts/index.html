@@ -6,7 +6,7 @@
         <p class="hero-subtitle">Architecting the future of forecasting, simulation, and decision intelligence.</p>
         <div class="hero-buttons">
             <a href="/research/" class="btn btn-primary">Our Research</a>
-            <a href="/posts/" class="btn btn-secondary">Publications</a>
+            <a href="/posts/" class="btn btn-secondary">Key Work Areas</a>
         </div>
     </div>
     <div class="hero-background-glow"></div>
@@ -17,21 +17,24 @@
     <div class="focus-grid">
         <div class="focus-card">
             <h3>Time Series Forecasting</h3>
-            <p>Developing robust, scalable models for high-frequency and macroscopic time-series prediction utilizing deep learning and statistical foundations.</p>
+            <p>Developing robust, scalable models for high-frequency and macroscopic time-series prediction utilizing
+                deep learning and statistical foundations.</p>
         </div>
         <div class="focus-card">
             <h3>Probabilistic Systems</h3>
-            <p>Quantifying uncertainty in complex environments to deliver actionable, risk-aware insights directly applicable to volatile domains.</p>
+            <p>Quantifying uncertainty in complex environments to deliver actionable, risk-aware insights directly
+                applicable to volatile domains.</p>
         </div>
         <div class="focus-card">
             <h3>Decision Intelligence</h3>
-            <p>Connecting predictive outputs seamlessly via reinforcement learning and optimization strategies to automate complex strategic decisions.</p>
+            <p>Connecting predictive outputs seamlessly via reinforcement learning and optimization strategies to
+                automate complex strategic decisions.</p>
         </div>
     </div>
 </section>
 
 <section class="latest-research">
-    <h2>Recent Publications</h2>
+    <h2>Key Work Areas</h2>
     <div class="post-grid">
         {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
         {{- range first 3 $pages }}
