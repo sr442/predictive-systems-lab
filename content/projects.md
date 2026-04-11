@@ -15,7 +15,7 @@ An end-to-end algorithmic trading architecture that autonomously constructs and 
 - **Tech Stack**: Python, FastAPI, React, Docker, AWS.
 - **Status**: Active Deployment.
 
-## 2. Global Supply Chain Simulator
+## 2. [Global Supply Chain Simulator](/posts/global-supply-chain-simulator/)
 
 A probabilistic simulation engine designed to model cascading supply chain failures under geopolitical and climate-related stress events. 
 
