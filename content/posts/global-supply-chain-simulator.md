@@ -19,6 +19,12 @@ Currently, our simulator identifies the baseline probabilistic risk of a severe 
 
 When we subjected the network to a simulated **Geopolitical Stress Event**—a 50% spike in Brent Crude Oil pricing combined with a 50% output capacity reduction at the Port of Shanghai—the network did not linearly degrade. Instead, due to the compounding effect of rerouted traffic and fuel surcharges, the risk profile metastasized, exposing severe architectural bottlenecks in trans-Pacific traffic.
 
+![Node Risk Assessment](/assets/risk_by_port.png)
+*Figure 2: Probability of cascading failure sorted by originating port infrastructure. High-volume hubs like Shanghai absorb significantly higher baseline friction.*
+
+![Timeline Analysis](/assets/delay_timeline.png)
+*Figure 3: Historical volatility mapping of average trans-oceanic delay spikes tracking macro shocks.*
+
 ---
 
 ## 2. Modeling Architecture & Data Engineering
@@ -30,6 +36,9 @@ We modeled millions of synthetic edge evaluations, grounded in **live macroecono
 *   **WTI Crude Oil Prices (CL=F)** acting as a proxy for bunker fuel surcharges and ocean freight capital expenses.
 *   **ZIM Integrated Shipping Indices** to capture historical equity-market proxies for acute shipping supply/demand mismatches.
 *   **Node Flow Matrices**: Volume traffic (TEU) between major exporting hubs (Shenzhen, Ningbo, Mumbai) and importer markets (Rotterdam, New York, Long Beach).
+
+![Macro Friction Analysis](/assets/macro_scatter.png)
+*Figure 1: The intersection of rising bunker fuel costs (WTI Crude) and shipping index congestion severely amplifies the likelihood of cascading delays.*
 
 ### 2.2 Model Performance Profile
 - **Algorithm**: `XGBClassifier` (Gradient Boosted Trees Framework)
