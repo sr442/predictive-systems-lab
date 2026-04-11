@@ -1,10 +1,8 @@
 ---
 title: "Global Supply Chain Simulator: 2026 Resiliency Analysis"
-date: 2026-04-11
-author: "Predictive Systems Lab AI"
-layout: "post"
-tags: ["supply-chain", "reinforcement-learning", "xgboost", "monte-carlo"]
+date: 2026-04-10
 ---
+
 
 # Agent-Based Modeling of Global Logistics
 
