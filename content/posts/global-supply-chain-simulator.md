@@ -38,7 +38,7 @@ We modeled millions of synthetic edge evaluations, grounded in **live macroecono
 *   **Node Flow Matrices**: Volume traffic (TEU) between major exporting hubs (Shenzhen, Ningbo, Mumbai) and importer markets (Rotterdam, New York, Long Beach).
 
 ![Macro Friction Analysis](/predictive-systems-lab/assets/macro_scatter.png)
-*Figure 1: The intersection of rising bunker fuel costs (WTI Crude) and shipping index congestion severely amplifies the likelihood of cascading delays.*
+*Figure 1: Origin-Destination Matrix mapping the probability of severe delays. The data clearly shows that trans-Pacific routes originating from Shanghai absorb the most systemic friction.*
 
 ### 2.2 Model Performance Profile
 - **Algorithm**: `XGBClassifier` (Gradient Boosted Trees Framework)
