@@ -5,7 +5,7 @@ layout: "page"
 
 # Applied Research Projects
 
-![Industry Vectors](https://raw.githubusercontent.com/sr442/predictive-systems-lab/main/static/assets/industries_radar.png)<br>
+![Industry Vectors](assets/industries_radar.png?v=fresh)<br><br>
 
 Predictive Systems Lab maintains several open-source and proprietary systems that demonstrate our research capabilities in production environments.
 

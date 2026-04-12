@@ -44,3 +44,8 @@ languageCode = "en-us"
   name = "Contact"
   url = "/contact/"
   weight = 60
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

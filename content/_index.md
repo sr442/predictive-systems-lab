@@ -17,7 +17,7 @@ Research and AI systems for forecasting and decision intelligence.
 
 Our forecasting models directly empower operations and decision-making across the following core industries:
 
-![Forecasting Industries Radar](https://raw.githubusercontent.com/sr442/predictive-systems-lab/main/static/assets/industries_radar.png)<br>
+![Forecasting Industries Radar](assets/industries_radar.png?v=fresh)<br><br>
 
 - **Financial Forecasting:** Volatility and market risk modeling.
 - **Supply Chain Analytics:** Cascading delay prediction and inventory optimization.
