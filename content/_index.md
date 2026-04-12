@@ -13,9 +13,13 @@ Research and AI systems for forecasting and decision intelligence.
 - Probabilistic Forecasting
 - Decision Intelligence Systems
 
-## Applications
+## Industries & Applications
 
-- Demand Forecasting
-- Financial Forecasting
-- Macroeconomic Prediction
-- Supply Chain Analytics
+Our forecasting models directly empower operations and decision-making across the following core industries:
+
+![Forecasting Industries Radar](https://raw.githubusercontent.com/sr442/predictive-systems-lab/main/static/assets/industries_radar.png)<br>
+
+- **Financial Forecasting:** Volatility and market risk modeling.
+- **Supply Chain Analytics:** Cascading delay prediction and inventory optimization.
+- **Demand Forecasting:** Retail and E-commerce capacity planning.
+- **Energy Grids & Healthcare:** Specialized high-reliability demand intelligence.
